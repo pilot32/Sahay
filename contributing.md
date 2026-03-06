@@ -157,8 +157,8 @@ Understanding our development phases will help you identify where you can contri
 ### Phase 1: Foundation (Current)
 *Focus: Frontend UI and design system*
 
-- [ ] Core React components and UI library
-- [ ] Responsive layout and navigation
+- [x] Core React components and UI library
+- [x] Responsive layout and navigation
 - [ ] Design system with Tailwind CSS
 - [ ] Landing page design
 - [ ] Authentication UI (login/signup forms)
@@ -168,11 +168,11 @@ Understanding our development phases will help you identify where you can contri
 ### Phase 2: Backend & Authentication
 *Focus: Server setup and user management*
 
-- [ ] Express.js API server setup
-- [ ] PostgreSQL database with Prisma ORM
-- [ ] User authentication (JWT + OAuth)
-- [ ] NGO registration API endpoints
-- [ ] Donor registration API endpoints
+- [x] Express.js API server setup
+- [x] PostgreSQL database with Subabase 
+- [x] User authentication (JWT + OAuth)
+- [x] NGO registration API endpoints
+- [x] Donor registration API endpoints
 
 **Good for contributors interested in:** Node.js, Databases,Supabase, Security, API Design,Frontend Architecture
 
