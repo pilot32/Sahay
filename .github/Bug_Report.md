@@ -1,18 +1,18 @@
 ---
-name: 🐛 Bug Report
+name:  Bug Report
 about: Report a bug to help us improve Sahay
 title: "[BUG] "
 labels: bug, needs-triage
 assignees: ''
 ---
 
-## 🐛 Bug Description
+##  Bug Description
 
 <!-- A clear and concise description of what the bug is. -->
 
 ---
 
-## 🔁 Steps to Reproduce
+##  Steps to Reproduce
 
 1. Go to '...'
 2. Click on '...'
@@ -21,19 +21,19 @@ assignees: ''
 
 ---
 
-## ✅ Expected Behavior
+##  Expected Behavior
 
 <!-- What did you expect to happen? -->
 
 ---
 
-## ❌ Actual Behavior
+##  Actual Behavior
 
 <!-- What actually happened? -->
 
 ---
 
-## 📸 Screenshots / Logs
+##  Screenshots / Logs
 
 <!-- If applicable, add screenshots or paste error logs here. -->
 
@@ -43,7 +43,7 @@ paste logs here
 
 ---
 
-## 🌍 Environment
+##  Environment
 
 | Detail | Value |
 |--------|-------|
@@ -54,6 +54,6 @@ paste logs here
 
 ---
 
-## 📝 Additional Context
+## Additional Context
 
 <!-- Any other context about the problem? -->

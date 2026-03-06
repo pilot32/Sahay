@@ -1,10 +1,10 @@
-# 🤝 Contributing to Sahay
+# Contributing to Sahay
 
 Thank you for your interest in contributing to **Sahay**! Every contribution — big or small — helps us build a better platform for NGOs and donors across India.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
@@ -17,29 +17,29 @@ Thank you for your interest in contributing to **Sahay**! Every contribution —
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 By participating, you agree to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing.
 
 ---
 
-## 💡 How Can I Contribute?
+## How Can I Contribute?
 
-### 🐛 Report Bugs
+###  Report Bugs
 Found something broken? [Open a Bug Report](.github/ISSUE_TEMPLATE/bug_report.md).
 
-### ✨ Suggest Features
+### Suggest Features
 Have an idea? [Open a Feature Request](.github/ISSUE_TEMPLATE/feature_request.md).
 
-### 🔧 Fix Issues
+### Fix Issues
 Browse [open issues](https://github.com/yourusername/sahay/issues) — issues labelled `good first issue` are great for newcomers.
 
-### 📖 Improve Documentation
+### Improve Documentation
 Spotted unclear docs, typos, or missing information? PRs for docs are always welcome.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Fork** the repository on GitHub
 2. **Clone** your fork locally:
@@ -65,7 +65,7 @@ Spotted unclear docs, typos, or missing information? PRs for docs are always wel
 
 ---
 
-## 🌿 Branch Naming Convention
+##  Branch Naming Convention
 
 ```
 feature/short-description       # New features
@@ -85,7 +85,7 @@ docs/update-api-endpoints
 
 ---
 
-## ✍️ Commit Message Guidelines
+## Commit Message Guidelines
 
 We follow the **Conventional Commits** standard:
 
@@ -112,7 +112,7 @@ docs(readme): add environment variable instructions
 
 ---
 
-## 🔁 Pull Request Process
+##  Pull Request Process
 
 1. **Sync your fork** before starting:
    ```bash
@@ -147,7 +147,7 @@ docs(readme): add environment variable instructions
 
 ---
 
-## 🎨 Style Guide
+##  Style Guide
 
 ### JavaScript / Node.js
 - Use `const` and `let`, never `var`
@@ -168,7 +168,7 @@ docs(readme): add environment variable instructions
 
 ---
 
-## 🐛 Reporting Bugs
+##  Reporting Bugs
 
 When reporting bugs, please include:
 - Steps to reproduce

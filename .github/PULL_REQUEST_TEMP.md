@@ -1,4 +1,4 @@
-## 📋 Description
+##  Description
 
 <!-- Clearly describe what this PR does and why. -->
 
@@ -6,18 +6,18 @@ Closes #<!-- issue number -->
 
 ---
 
-## 🔄 Type of Change
+##  Type of Change
 
-- [ ] 🐛 Bug fix
-- [ ] ✨ New feature
-- [ ] 📖 Documentation update
-- [ ] ♻️ Refactor (no functional change)
-- [ ] 🧪 Test update
-- [ ] 🔧 Chore / maintenance
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Refactor (no functional change)
+- [ ]  Test update
+- [ ]  Chore / maintenance
 
 ---
 
-## 🧪 How Has This Been Tested?
+##  How Has This Been Tested?
 
 <!-- Describe how you tested your changes. -->
 
@@ -33,7 +33,7 @@ Closes #<!-- issue number -->
 
 ---
 
-## ✅ Checklist
+##  Checklist
 
 - [ ] My code follows the project's style guide
 - [ ] I have self-reviewed my own code
@@ -45,7 +45,7 @@ Closes #<!-- issue number -->
 
 ---
 
-## 📸 Screenshots (if UI change)
+##  Screenshots (if UI change)
 
 <!-- Add before/after screenshots if this touches the frontend. -->
 
@@ -55,6 +55,6 @@ Closes #<!-- issue number -->
 
 ---
 
-## 📝 Additional Notes
+##  Additional Notes
 
 <!-- Anything else the reviewer should know? -->

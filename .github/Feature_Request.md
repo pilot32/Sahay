@@ -1,36 +1,36 @@
 ---
-name: ✨ Feature Request
+name:  Feature Request
 about: Suggest a new idea or improvement for Sahay
 title: "[FEATURE] "
 labels: enhancement, needs-triage
 assignees: ''
 ---
 
-## ✨ Feature Summary
+##  Feature Summary
 
 <!-- A short, clear description of the feature you're requesting. -->
 
 ---
 
-## 🧩 Problem It Solves
+##  Problem It Solves
 
 <!-- What problem does this feature solve? Who does it help — NGOs, donors, admins? -->
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 <!-- Describe how you'd like this feature to work. Be as specific as possible. -->
 
 ---
 
-## 🔄 Alternatives Considered
+##  Alternatives Considered
 
 <!-- Have you considered any alternative solutions or workarounds? -->
 
 ---
 
-## 👥 Who Benefits?
+##  Who Benefits?
 
 - [ ] NGOs
 - [ ] Donors
@@ -39,12 +39,12 @@ assignees: ''
 
 ---
 
-## 📸 Mockups / References
+##  Mockups / References
 
 <!-- If you have wireframes, screenshots, or links to similar features elsewhere, add them here. -->
 
 ---
 
-## 📝 Additional Context
+##  Additional Context
 
 <!-- Any other context, links, or information that might help. -->

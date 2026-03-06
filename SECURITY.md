@@ -1,21 +1,21 @@
-# 🔒 Security Policy
+#  Security Policy
 
 ## Supported Versions
 
 | Version | Supported |
 |---------|-----------|
-| Latest (`main`) | ✅ Yes |
-| Older releases | ❌ No |
+| Latest (`main`) | Yes |
+| Older releases | No |
 
 ---
 
-## 🚨 Reporting a Vulnerability
+##  Reporting a Vulnerability
 
 **Please do NOT report security vulnerabilities through public GitHub Issues.**
 
 If you discover a security vulnerability in Sahay, please report it responsibly by emailing:
 
-📧 **security@sahay.org** *(replace with your actual email)*
+ **security@sahay.org** *(replace with your actual email)*
 
 ### What to include in your report:
 - A description of the vulnerability
@@ -25,7 +25,7 @@ If you discover a security vulnerability in Sahay, please report it responsibly 
 
 ---
 
-## ⏱️ Response Timeline
+## ⏱ Response Timeline
 
 | Step | Timeframe |
 |------|-----------|
@@ -36,7 +36,7 @@ If you discover a security vulnerability in Sahay, please report it responsibly 
 
 ---
 
-## 🙏 Responsible Disclosure
+##  Responsible Disclosure
 
 We ask that you:
 - Give us reasonable time to fix the issue before public disclosure
