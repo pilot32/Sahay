@@ -111,7 +111,8 @@ Sahay solves this by creating a **verified, structured, and searchable digital m
 | [Node.js](https://nodejs.org/) | Runtime environment |
 | [Express.js](https://expressjs.com/) | Web framework |
 | [PostgreSQL](https://www.postgresql.org/) | Relational database |
-| [Prisma](https://www.prisma.io/) | ORM for database operations |
+| [Supabase](https://www.supabase.co/) | ORM for database operations |
+| [Supabase S3 Bucket](https://www.supabase.co/) | ORM for database operations |
 | [JWT](https://jwt.io/) | Authentication tokens |
 | [OAuth 2.0](https://oauth.net/2/) | Social login (Google, etc.) |
 
